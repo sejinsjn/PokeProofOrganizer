@@ -8,8 +8,14 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/> 
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0">
+            <ListBox/>
+            <Button Content="Browse" Height="25" Width="100"/>
+        </DockPanel>
     </Grid>
 </Window>
