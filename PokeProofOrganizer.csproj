@@ -99,11 +99,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MVVMCore\MVVMCore.csproj">
-      <Project>{acd76d99-c0fd-4a76-8a7e-8b624b470b5b}</Project>
-      <Name>MVVMCore</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
