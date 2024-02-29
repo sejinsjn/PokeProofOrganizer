@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeProofOrganizer", "PokeProofOrganizer.csproj", "{DF3C5F8E-1090-4875-BC3C-3221FE65A76C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCore", "..\MVVMCore\MVVMCore.csproj", "{ACD76D99-C0FD-4A76-8A7E-8B624B470B5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCore", "MVVMCore\MVVMCore.csproj", "{ACD76D99-C0FD-4A76-8A7E-8B624B470B5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
